@@ -15,3 +15,5 @@ During the COVID-19 crisis, as the number of patients was rising exponentially, 
 -	To develop a website that will provide a user-friendly interface for people to look for availability and accessibility of Hospital Beds and Oxygen Cylinders. This aims at creating an interface that requires less hectic logging in and going through a whole long process before actually receiving the help.
 -	To connect providers/requesters of covid resources with each other using Google Maps API. This would help them contact each other without wasting time and risking lives of the patients.
 -	To verify the authenticity of the dealers in order to minimize oxygen cylinder fraud. Authentication is to be done using the registration ID of Oxygen cylinder providers.
+
+### This repository consists of html and css files of different web pages.
