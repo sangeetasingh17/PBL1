@@ -1,8 +1,8 @@
 # Discription
 
-## This repository consists of only html files of different web pages and the images used in the Home page along with the project presentation pdf file.
+### This repository consists of only html files of different web pages and the images used in the Home page along with the project presentation pdf file.
 
-### This is the developed Front-end:  https://blive.netlify.app
+#### This is the developed Front-end:  https://blive.netlify.app
 
 
 ## Problem Statement: 
